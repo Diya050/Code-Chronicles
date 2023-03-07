@@ -1,5 +1,7 @@
 # Code Chronicles: How Joining SDC Taught Me to Speak the Language of Code
 
+|[image](img.jpg)
+
 Learning a new skill can be an exhilarating experience, especially when that skill is in high demand like programming. Joining SDC to learn new technologies can be a daunting task, but it can also be one of the most rewarding experiences of your life. In this blog, I'll be sharing my journey of joining Software Development Centre to learn programming and the lessons I've learned along the way. From the challenges I faced to the triumphs I celebrated, I'll take you on a personal tour of my experience and provide you with some insights that can help you in your own journey.
 
 I, Diya Baweja, a 1st year student pursuing Btech CSE who, like most of the other students, came into the field of Computer Science just for the sake of my dream and fascination for the Tech world. My initial exposure to SDC was through a training course on Web/App Development organised by Software Development Centre (SDC). It involved development of the web-app with Frappe, a no-code / low-code Open-Source Web Framework. In this, we developed a library management app during the course and a toy app( mine Interior Design app) with the help of online guidance by SDC after the course. 
