@@ -14,10 +14,10 @@ Then Sir gave me task to use two.js, a javascript library to create a project an
 
 Finally stepping out of my comfort zone, I explored the uncharted territory of two.js and taking advantage of the available resources, I succeeded in creating a clock project. When I presented it before Sir and GD members, they appreciated my efforts of learning something new and through democratic voting I became a member pf Great Developers group.
 
-"Success is not final, failure is not fatal: it is the courage to continue that counts." - Winston Churchill
+>"Success is not final, failure is not fatal: it is the courage to continue that counts." - Winston Churchill
 
 I got an invitation mail from GD. The first thing that I learnt on entering GD was to how to mail professionally. Yes, really. I had never seen this level of mailing anywhere before this. Moving on my learning journey, I further explored javascript. Collaborating with like-minded individuals, immersing myself in the learning process, pushing through the challenges, celebrating the small victories, I created few more projects using this technology.
 
 Then I learnt creating websites and apps (PWA's) further. I encountered the working of Linux OS and more about GitHub. Earlier it was really hard to handle the pressure of GD along with semester studies but as Leonardo da Vinci said "Learning never exhausts the mind". I learnt time management and team work on this journey which still continues..... 
 
-"Believe you can and you're halfway there." - Theodore Roosevelt.
+>"Believe you can and you're halfway there." - Theodore Roosevelt.
